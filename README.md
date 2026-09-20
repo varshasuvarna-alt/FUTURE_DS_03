@@ -138,9 +138,11 @@ The Excel dashboard includes:
  
 The repository contains the following files:
  
-- `Marketing_Funnel_Analysis.xlsx` – Complete Excel analysis and dashboard.
-- `Marketing_Funnel_Dashboard.png` – Dashboard preview image.
-- `README.md` – Project documentation.
+## Project Files
+
+- [Marketing_Funnel_Analysis.xlsx](./Marketing_Funnel_Analysis.xlsx) – Complete Excel analysis and dashboard.
+- [Marketing_Funnel_Dashboard.png](./Marketing_Funnel_Dashboard.png) – Dashboard preview image.
+- [README.md](./README.md) – Project documentation.
  
 ## Data Limitation
  
